@@ -7,7 +7,7 @@ public class Main {
     }
 
     public static int calculateTheAnswer() {
-        return multiply(add(4, 2,) 7);
+        return multiply(add(4, 2), 7);
     }
 
     //todo: Implement method and remove this line
@@ -17,6 +17,6 @@ public class Main {
 
 
     private static int multiply(int a, int b) {
-        return a * b;
+        return (a * b);
     }
 }
