@@ -7,12 +7,12 @@ public class Main {
     }
 
     public static int calculateTheAnswer() {
-        return multiply(add(4, 2), 7);
+        return multiply(add(4, 2,) 7);
     }
 
     //todo: Implement method and remove this line
     private static int add(int a, int b) {
-        return 0;
+        return (a + b);
     }
 
     //todo: Implement method and remove this line
